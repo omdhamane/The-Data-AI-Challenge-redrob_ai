@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.streamlit/
+
+# Local challenge bundle and datasets should not be committed to a public repo.
+[[]PUB[]] India_runs_data_and_ai_challenge/
+candidates.jsonl
+*.jsonl
+
+# Local preview/render scratch output.
+*.tmp
